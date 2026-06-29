@@ -16,7 +16,8 @@
 
 * [Project Overview](#-Project-Overview)
 * 
-* Project Objectives
+* [Project Objectives](#-Project-Objectives)
+* 
 * Business Problem
 * Research Questions
 * Dataset Information
