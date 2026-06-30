@@ -18,20 +18,33 @@
 * 
 * [Project Objectives](#-Project-Objectives)
 * 
-* Business Problem
-* Research Questions
-* Dataset Information
-* Tools & Technologies
-* Data Cleaning Process
-* Data Modeling
-* DAX Measures
-* Dashboard Pages
-* Key Insights
-* Business Recommendations
-* Challenges Encountered
-* Future Improvements
-* Project Files
-* Author
+* [Business Problem](#-Business-Problem)
+* 
+* [Research Questions](#-Research-Questions)
+* 
+* [Dataset Information](#-Dataset-Information)
+* 
+* [Tools and Technologies](#-Tools-and-Technologies)
+* 
+* [Data Cleaning Process](#-Data-Cleaning-Process)
+* 
+* [Data Modeling](#-Data-Modeling)
+* 
+* [DAX Measures](#-DAX-Measures)
+* 
+* [Dashboard Pages](#-Dashboard-Pages)
+* 
+* [Key Insights](#-Key-Insights)
+* 
+* [Business Recommendations](#-Business-Recommendations)
+* 
+* [Challenges Encountered](#-Challenges-Encountered)
+* 
+* [Future Improvements](#-Future-Improvements)
+* 
+* [Project Files](#-Project-Files)
+* 
+* [Author](#-Author)
 
 ---
 
@@ -39,7 +52,7 @@
 
 Small businesses often struggle with inventory management due to manual tracking processes, delayed stock updates, reconciliation issues, and limited visibility into inventory performance.
 
-This project presents an interactive **Power BI dashboard** developed as part of a collaborative **Smart Inventory & Sales Tracker Capstone Project**. The dashboard transforms survey responses into meaningful business insights, helping stakeholders understand operational challenges, inventory practices, and readiness to adopt AI-powered inventory solutions.
+This project presents an interactive **Power BI dashboard** developed as part of a collaborative **Smart Inventory & Sales Tracker Capstone Project By Group7**. The dashboard transforms survey responses into meaningful business insights, helping stakeholders understand operational challenges, inventory practices, and readiness to adopt AI-powered inventory solutions.
 
 ---
 
@@ -88,7 +101,7 @@ This dashboard answers the following questions:
 
 **Source:** Google Forms Survey
 
-**Respondents:** 25 Business Owners and Inventory Managers
+**Respondents:** 41 Business Owners and Inventory Managers
 
 The dataset includes information on:
 
@@ -105,7 +118,7 @@ The dataset includes information on:
 
 ---
 
-# 🛠 Tools & Technologies
+# 🛠 Tools and Technologies
 
 * Microsoft Power BI
 * Power Query
@@ -176,6 +189,7 @@ Provides a high-level summary of inventory operations through:
 * Business Size Distribution
 * Interactive Filters
 * Executive Summary
+<img width="1366" height="758" alt="smart inventory page 1" src="https://github.com/user-attachments/assets/757fcff7-4b75-494d-89b9-5d0a66c28b47" />
 
 ---
 
@@ -187,6 +201,7 @@ Highlights operational challenges including:
 * Reconciliation Challenges
 * Manual Inventory Practices
 * Operational Insights
+<img width="1354" height="639" alt="smart inventory page 2" src="https://github.com/user-attachments/assets/235d1ffb-5f11-450a-a63a-ecb110435e29" />
 
 ---
 
@@ -198,6 +213,7 @@ Explores business interest in AI-driven inventory management through:
 * Preferred Alert Methods
 * Requested Dashboard Features
 * Smart Inventory Opportunities
+<img width="978" height="630" alt="smart inventory page 3" src="https://github.com/user-attachments/assets/87c0406f-c392-4abf-9034-4efd58bfcc0a" />
 
 ---
 
@@ -209,6 +225,7 @@ Provides practical recommendations based on survey findings, including:
 * Smart Alerts
 * AI Inventory Assistant
 * Demand Forecasting
+<img width="960" height="534" alt="smart inventory page 4" src="https://github.com/user-attachments/assets/00da2113-b6b0-4207-a377-6827d863a468" />
 
 ---
 
@@ -309,6 +326,3 @@ Future versions of the dashboard could include:
 
 ---
 
-## A suggestion to make this README even stronger
-
-Just like we did for your Healthcare Dashboard, I recommend adding **dashboard screenshots directly inside the README** after the "Dashboard Pages" section. Include one screenshot for each page with a short description. Recruiters often look at the README before downloading a `.pbix` file, so showing the dashboard visually can significantly increase engagement and make your project stand out.
